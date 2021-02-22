@@ -3,4 +3,4 @@
 
 
 # 참고 사이트
-(link)https://github.com/jooyounghun/Django_with_PracticeExamples
+https://github.com/jooyounghun/Django_with_PracticeExamples
